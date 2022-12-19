@@ -1,4 +1,3 @@
-conk
 i use arch btw
 
 <!---
