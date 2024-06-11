@@ -6,8 +6,6 @@ RUSTACEAN FOR LIFE 🦀🦀🦀🦀🦀🦀🦀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangopanda455&layout=donut&theme=tokyonight&count_private=false&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
 
-(ignore the js)
-
 # My most decent projects
 
 [![macext card](https://github-readme-stats.vercel.app/api/pin/?username=mangopanda455&repo=macext&theme=tokyonight)](https://github.com/mangopanda455/macext)
