@@ -1,5 +1,3 @@
-i use arch btw
-
 RUSTACEAN FOR LIFE 🦀🦀🦀🦀🦀🦀🦀
 
 [![mangopanda455's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangopanda455&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
